@@ -7,6 +7,14 @@ This template repo contains basic debug launch configuration for VS Code using i
 
 ## Installation
 
+
+# Changing the repository url
+1. Clone the repository.
+2. Change the directory to inner ```ts-node-boilerplate``` directory.
+3. Change repository url ```git remote set-url origin "copy new remote repo url here"```
+
+
+# Initializing the repository manually
 1. Intialize npm: ```npm init --y```
 2. Install node: ```npm install node```
 3. Install tsnode globally: ```npm i -g typescript ts-node```
