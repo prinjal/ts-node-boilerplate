@@ -13,6 +13,7 @@ This template repo contains basic debug launch configuration for VS Code using i
 2. Change the directory to inner ```ts-node-boilerplate``` directory.
 3. Change repository url ```git remote set-url origin "copy new remote repo url here"```
 4. Run ```npm install```
+5. Change project name from package.json
 
 
 ### Initializing the repository manually
